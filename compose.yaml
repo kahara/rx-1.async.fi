@@ -1,0 +1,12 @@
+services:
+  rtltcp:
+    build:
+      dockerfile: docker/rtltcp/Dockerfile
+    volumes:
+      - /dev/bus/usb:/dev/bus/usb:ro
+    device_cgroup_rules:
+      - 'c 189:* rwm'
+    environment:
+      FREQUENCY: 145000000
+      GAIN: 0
+      SAMPLERATE: 2400000
