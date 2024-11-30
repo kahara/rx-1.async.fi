@@ -1,0 +1,82 @@
+[
+    {
+        "name": "SSB call",
+        "frequency": 432200000,
+        "modulation": "usb",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "FM call",
+        "frequency": 433500000,
+        "modulation": "nfm",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "OH2UHF Inkoo",
+        "frequency": 432443000,
+        "modulation": "cw",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "OH6UHF Uusikaarlepyy",
+        "frequency": 432432000,
+        "modulation": "cw",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "OH9UHF Rovaniemi",
+        "frequency": 432417000,
+        "modulation": "cw",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "DMO 1 call",
+        "frequency": 434400000,
+        "modulation": "dmr",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "DMO 2",
+        "frequency": 434412500,
+        "modulation": "dmr",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "DMO 3",
+        "frequency": 434425000,
+        "modulation": "dmr",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "DMO 4",
+        "frequency": 434437500,
+        "modulation": "dmr",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "DMO 5",
+        "frequency": 434450000,
+        "modulation": "dmr",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    }
+]

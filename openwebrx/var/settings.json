@@ -6,10 +6,10 @@
             "type": "rtl_tcp",
             "profiles": {
                 "cd232bbd-2546-4fcf-b738-c1b45963f532": {
-                    "name": "2m",
-                    "center_freq": 145000000,
-                    "samp_rate": 2400000,
-                    "start_freq": 144300000,
+                    "name": "70cm",
+                    "center_freq": 433280000,
+                    "samp_rate": 2560000,
+                    "start_freq": 432200000,
                     "start_mod": "usb",
                     "tuning_step": 100,
                     "waterfall_auto_level_default_mode": true
@@ -21,7 +21,7 @@
             "remote": "rtltcp:1173"
         }
     },
-    "receiver_name": "OH2EWL",
+    "receiver_name": "OH2EWL 70cm",
     "receiver_location": "Pasila",
     "receiver_asl": 47,
     "receiver_admin": "joni.kahara@async.fi",
@@ -54,7 +54,7 @@
         "min": 3.0,
         "max": 10.0
     },
-    "waterfall_auto_level_default_mode": false,
+    "waterfall_auto_level_default_mode": true,
     "waterfall_auto_min_range": 50,
     "audio_compression": "adpcm",
     "fft_compression": "adpcm",
@@ -124,7 +124,7 @@
         "packet"
     ],
     "aprs_igate_enabled": true,
-    "aprs_callsign": "OH2EWL-10",
+    "aprs_callsign": "OH2EWL-11",
     "aprs_igate_server": "euro.aprs2.net",
     "aprs_igate_password": "22947",
     "aprs_igate_beacon": true,
