@@ -18,7 +18,7 @@ services:
       - ./openwebrx/var:/var/lib/openwebrx
       - ./openwebrx/etc:/etc/openwebrx
     tmpfs:
-      - /tmp
+      - /tmp/openwebrx
     ports:
       - 8073:8073
     environment:
