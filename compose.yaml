@@ -17,8 +17,10 @@ services:
     volumes:
       - ./openwebrx/var:/var/lib/openwebrx
       - ./openwebrx/etc:/etc/openwebrx
-    tmpfs:
-      - /tmp/openwebrx
+      - type: tmpfs
+        target: /tmp/openwebrx
+        tmpfs:
+          size: 1G
     ports:
       - 8073:8073
     environment:
