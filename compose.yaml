@@ -10,6 +10,7 @@ services:
       FREQUENCY: 145000000
       GAIN: 0
       SAMPLERATE: 2400000
+    restart: always
 
   openwebrx:
     image: slechev/openwebrxplus-softmbe:1.2.74
@@ -22,3 +23,4 @@ services:
       TZ: Etc/UTC
       OPENWEBRX_ADMIN_USER: admin
       OPENWEBRX_ADMIN_PASSWORD: password
+    restart: always
