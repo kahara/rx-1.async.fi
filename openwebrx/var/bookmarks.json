@@ -1,0 +1,66 @@
+[
+    {
+        "name": "SSB call",
+        "frequency": 144300000,
+        "modulation": "usb",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "FM call",
+        "frequency": 145500000,
+        "modulation": "nfm",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "OH2VHF Inkoo",
+        "frequency": 144443000,
+        "modulation": "cw",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "OH2VHH Vantaa",
+        "frequency": 144470000,
+        "modulation": "cw",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "OH7VHF Tuupovaara",
+        "frequency": 144433000,
+        "modulation": "cw",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "DMO 1 call",
+        "frequency": 145375000,
+        "modulation": "dmr",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "DMO 2",
+        "frequency": 144825000,
+        "modulation": "dmr",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "DMO 3",
+        "frequency": 144837500,
+        "modulation": "dmr",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    }
+]

@@ -21,7 +21,7 @@
             "remote": "rtltcp:1173"
         }
     },
-    "receiver_name": "OH2EWL",
+    "receiver_name": "OH2EWL 2m",
     "receiver_location": "Pasila",
     "receiver_asl": 47,
     "receiver_admin": "joni.kahara@async.fi",
@@ -111,7 +111,6 @@
         300
     ],
     "q65_enabled_combinations": [
-        "A30",
         "C60"
     ],
     "services_enabled": true,
