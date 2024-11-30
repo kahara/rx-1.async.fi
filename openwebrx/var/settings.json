@@ -91,7 +91,7 @@
     "fax_postprocess": true,
     "fax_color": false,
     "fax_am": true,
-    "decoding_queue_workers": 4,
+    "decoding_queue_workers": 2,
     "decoding_queue_length": 20,
     "wsjt_decoding_depth": 3,
     "wsjt_decoding_depths": {
