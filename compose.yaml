@@ -10,3 +10,15 @@ services:
       FREQUENCY: 145000000
       GAIN: 0
       SAMPLERATE: 2400000
+
+  openwebrx:
+    image: slechev/openwebrxplus-softmbe:1.2.74
+    volumes:
+      - ./openwebrx/var:/var/lib/openwebrx
+      - ./openwebrx/etc:/etc/openwebrx
+    ports:
+      - 8073:8073
+    environment:
+      TZ: Etc/UTC
+      OPENWEBRX_ADMIN_USER: admin
+      OPENWEBRX_ADMIN_PASSWORD: password
