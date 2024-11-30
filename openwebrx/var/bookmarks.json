@@ -1,0 +1,42 @@
+[
+    {
+        "name": "SSB call",
+        "frequency": 50200000,
+        "modulation": "usb",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "FM call",
+        "frequency": 51510000,
+        "modulation": "nfm",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "OH0SIX St\u00e5lsby",
+        "frequency": 50017000,
+        "modulation": "cw",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "OH2SIX Vihti",
+        "frequency": 50428000,
+        "modulation": "cw",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "OH9SIX Rovaniemi",
+        "frequency": 50417000,
+        "modulation": "cw",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    }
+]

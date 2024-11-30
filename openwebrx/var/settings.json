@@ -6,10 +6,10 @@
             "type": "rtl_tcp",
             "profiles": {
                 "cd232bbd-2546-4fcf-b738-c1b45963f532": {
-                    "name": "2m",
-                    "center_freq": 145000000,
+                    "name": "6m",
+                    "center_freq": 51000000,
                     "samp_rate": 2400000,
-                    "start_freq": 144300000,
+                    "start_freq": 50200000,
                     "start_mod": "usb",
                     "tuning_step": 100,
                     "waterfall_auto_level_default_mode": true
@@ -111,8 +111,7 @@
         300
     ],
     "q65_enabled_combinations": [
-        "A30",
-        "C60"
+        "A30"
     ],
     "services_enabled": true,
     "services_decoders": [
@@ -120,14 +119,13 @@
         "ft4",
         "wspr",
         "q65",
-        "msk144",
-        "packet"
+        "msk144"
     ],
-    "aprs_igate_enabled": true,
+    "aprs_igate_enabled": false,
     "aprs_callsign": "OH2EWL-10",
     "aprs_igate_server": "euro.aprs2.net",
     "aprs_igate_password": "22947",
-    "aprs_igate_beacon": true,
+    "aprs_igate_beacon": false,
     "aprs_igate_symbol": "R&",
     "aprs_igate_comment": "Tripla north rx igate",
     "pskreporter_enabled": true,
