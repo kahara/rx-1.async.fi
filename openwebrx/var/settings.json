@@ -289,8 +289,8 @@
     "receiver_admin": "joni.kahara@async.fi",
     "bandplan_region": 1,
     "receiver_gps": {
-        "lat": 47.0,
-        "lon": 19.0
+        "lat": 60.20004,
+        "lon": 24.92878
     },
     "gps_updates": false,
     "photo_title": "",
@@ -385,11 +385,11 @@
         "msk144",
         "packet"
     ],
-    "aprs_igate_enabled": false,
+    "aprs_igate_enabled": true,
     "aprs_callsign": "OH2EWL-10",
-    "aprs_igate_server": "igates.aprs.fi",
+    "aprs_igate_server": "euro.aprs2.net",
     "aprs_igate_password": "22947",
-    "aprs_igate_beacon": false,
+    "aprs_igate_beacon": true,
     "aprs_igate_symbol": "R&",
     "aprs_igate_comment": "Tripla north rx igate",
     "pskreporter_enabled": true,
