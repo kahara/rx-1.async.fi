@@ -8,7 +8,7 @@
                 "cd232bbd-2546-4fcf-b738-c1b45963f532": {
                     "name": "6m",
                     "center_freq": 51000000,
-                    "samp_rate": 2400000,
+                    "samp_rate": 2048000,
                     "start_freq": 50200000,
                     "start_mod": "usb",
                     "tuning_step": 100,

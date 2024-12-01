@@ -9,7 +9,7 @@ services:
     environment:
       FREQUENCY: 145000000
       GAIN: 0
-      SAMPLERATE: 2400000
+      SAMPLERATE: 2048000
     restart: always
 
   openwebrx:
