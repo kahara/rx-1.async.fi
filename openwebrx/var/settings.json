@@ -34,7 +34,7 @@
     "gps_updates": false,
     "photo_title": "",
     "photo_desc": "",
-    "max_clients": 10,
+    "max_clients": 5,
     "keep_files": 50,
     "session_timeout": 0,
     "usage_policy_url": "policy",
