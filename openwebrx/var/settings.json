@@ -12,7 +12,8 @@
                     "start_freq": 432200000,
                     "start_mod": "usb",
                     "tuning_step": 100,
-                    "waterfall_auto_level_default_mode": true
+                    "waterfall_auto_level_default_mode": true,
+                    "rf_gain": 25.4
                 }
             },
             "always-on": true,
