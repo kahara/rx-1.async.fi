@@ -25,6 +25,4 @@ services:
       - 8073:8073
     environment:
       TZ: Etc/UTC
-      OPENWEBRX_ADMIN_USER: admin
-      OPENWEBRX_ADMIN_PASSWORD: password
     restart: always
