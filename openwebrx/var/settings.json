@@ -125,7 +125,7 @@
     ],
     "aprs_igate_enabled": true,
     "aprs_callsign": "OH2EWL-10",
-    "aprs_igate_server": "euro.aprs2.net",
+    "aprs_igate_server": "igates.aprs.fi",
     "aprs_igate_password": "22947",
     "aprs_igate_beacon": true,
     "aprs_igate_symbol": "R&",
