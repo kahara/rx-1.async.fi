@@ -7,7 +7,7 @@ services:
     device_cgroup_rules:
       - 'c 189:* rwm'
     environment:
-      FREQUENCY: 145000000
+      FREQUENCY: 51000000
       GAIN: 0
       SAMPLERATE: 2048000
     restart: always
