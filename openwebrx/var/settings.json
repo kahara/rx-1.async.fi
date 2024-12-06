@@ -44,8 +44,8 @@
     "magic_key": "memagic",
     "receiver_keys": [],
     "waterfall_scheme": "GoogleTurboWaterfall",
-    "fft_fps": 10,
-    "fft_size": 8192,
+    "fft_fps": 5,
+    "fft_size": 4096,
     "fft_voverlap_factor": 0.3,
     "waterfall_levels": {
         "min": -88.0,
