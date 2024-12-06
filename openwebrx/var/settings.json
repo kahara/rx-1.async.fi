@@ -129,7 +129,7 @@
     "aprs_igate_password": "22947",
     "aprs_igate_beacon": true,
     "aprs_igate_symbol": "R&",
-    "aprs_igate_comment": "Tripla north rx igate",
+    "aprs_igate_comment": "Tripla north rx igate 432.500",
     "pskreporter_enabled": true,
     "pskreporter_callsign": "OH2EWL",
     "pskreporter_antenna_information": "Vertical",
