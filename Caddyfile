@@ -1,0 +1,52 @@
+{
+  servers {
+    metrics
+  }
+  admin :2019
+}
+
+rx-1.async.fi {
+  tls hostmaster@async.fi
+  root * /htdocs
+  file_server
+  encode zstd gzip
+  log {
+    output stdout
+  }
+}
+
+6m.rx-1.async.fi {
+  tls hostmaster@async.fi
+  reverse_proxy  {
+    lb_policy round_robin
+    to red.wg-b.async.fi:8073
+  }
+  encode zstd gzip
+  log {
+    output stdout
+  }
+}
+
+2m.rx-1.async.fi {
+  tls hostmaster@async.fi
+  reverse_proxy  {
+    lb_policy round_robin
+    to green.wg-b.async.fi:8073
+  }
+  encode zstd gzip
+  log {
+    output stdout
+  }
+}
+
+70cm.rx-1.async.fi {
+  tls hostmaster@async.fi
+  reverse_proxy  {
+    lb_policy round_robin
+    to blue.wg-b.async.fi:8073
+  }
+  encode zstd gzip
+  log {
+    output stdout
+  }
+}
