@@ -6,7 +6,7 @@
     "freq": 145600000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2021-07-12",
+    "updated": "2024-12-06",
     "comment": " 50 watts, 202 m ASL."
   },
   {
@@ -16,7 +16,7 @@
     "freq": 145600000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-07-16",
+    "updated": "2024-12-06",
     "comment": "QRV uudessa QTH:ssa Himoksen huipulla"
   },
   {
@@ -25,9 +25,9 @@
     "lon": 24.75139999,
     "freq": 145625000,
     "mode": "nfm",
-    "status": "Off-air",
-    "updated": "2018-07-16",
-    "comment": "QRT due to relocation"
+    "status": "On-air",
+    "updated": "2024-12-05",
+    "comment": ""
   },
   {
     "name": "OH1RAA",
@@ -36,7 +36,7 @@
     "freq": 145650000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-07-16",
+    "updated": "2024-12-06",
     "comment": " "
   },
   {
@@ -46,7 +46,7 @@
     "freq": 145650000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-07-16",
+    "updated": "2024-12-06",
     "comment": " "
   },
   {
@@ -55,7 +55,7 @@
     "lon": 26.79850006,
     "freq": 145650000,
     "mode": "nfm",
-    "status": "On-air",
+    "status": "Off-air",
     "updated": "2018-07-16",
     "comment": " "
   },
@@ -66,7 +66,7 @@
     "freq": 145675000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-07-16",
+    "updated": "2024-12-06",
     "comment": " "
   },
   {
@@ -76,7 +76,7 @@
     "freq": 145700000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-07-16",
+    "updated": "2024-12-06",
     "comment": " "
   },
   {
@@ -86,7 +86,7 @@
     "freq": 145700000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-07-16",
+    "updated": "2024-12-06",
     "comment": " "
   },
   {
@@ -96,7 +96,7 @@
     "freq": 145725000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-07-16",
+    "updated": "2024-12-06",
     "comment": "OH3FP"
   },
   {
@@ -105,8 +105,8 @@
     "lon": 24.93880081,
     "freq": 145750000,
     "mode": "nfm",
-    "status": "On-air",
-    "updated": "2018-07-16",
+    "status": "Off-air",
+    "updated": "2024-12-06",
     "comment": ""
   },
   {
@@ -116,7 +116,7 @@
     "freq": 145750000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2016-04-01",
+    "updated": "2024-12-06",
     "comment": " "
   },
   {
@@ -126,7 +126,7 @@
     "freq": 145775000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-07-16",
+    "updated": "2024-12-06",
     "comment": " "
   },
   {
@@ -136,7 +136,7 @@
     "freq": 145775000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-07-16",
+    "updated": "2024-12-06",
     "comment": " "
   },
   {
@@ -146,7 +146,7 @@
     "freq": 145787500,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-07-16",
+    "updated": "2024-12-05",
     "comment": "Part of the RATS R.Net network. Narrow channel! Max deviation 3kHz. CTCSS 118.8Hz can be switched on if needed. DTMF Macros: #90 Squelch normal #91 Squelch tight. Linked to 434.975 APCO25 Digital voice repeater"
   },
   {
@@ -166,7 +166,7 @@
     "freq": 434650000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-11-11",
+    "updated": "2024-12-06",
     "comment": " "
   },
   {
@@ -185,8 +185,8 @@
     "lon": 24.80010033,
     "freq": 434675000,
     "mode": "nfm",
-    "status": "On-air",
-    "updated": "2018-07-17",
+    "status": "Off-air",
+    "updated": "2024-12-06",
     "comment": "Part of the RATS R.Netnetwork"
   },
   {
@@ -195,8 +195,8 @@
     "lon": 23.10210037,
     "freq": 434700000,
     "mode": "nfm",
-    "status": "On-air",
-    "updated": "2018-07-17",
+    "status": "Off-air",
+    "updated": "2024-12-06",
     "comment": " "
   },
   {
@@ -206,7 +206,7 @@
     "freq": 434700000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-07-17",
+    "updated": "2024-12-06",
     "comment": " "
   },
   {
@@ -216,7 +216,7 @@
     "freq": 434725000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-07-17",
+    "updated": "2024-12-06",
     "comment": " "
   },
   {
@@ -235,8 +235,8 @@
     "lon": 22.20829964,
     "freq": 434775000,
     "mode": "nfm",
-    "status": "On-air",
-    "updated": "2018-07-18",
+    "status": "Off-air",
+    "updated": "2024-12-06",
     "comment": " "
   },
   {
@@ -255,8 +255,8 @@
     "lon": 25.04170036,
     "freq": 434800000,
     "mode": "nfm",
-    "status": "On-air",
-    "updated": "2018-07-18",
+    "status": "Off-air",
+    "updated": "2024-12-06",
     "comment": "Part of the RATS R.Netnetwork"
   },
   {
@@ -266,7 +266,7 @@
     "freq": 434800000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-07-18",
+    "updated": "2024-12-06",
     "comment": ""
   },
   {
@@ -275,7 +275,7 @@
     "lon": 24.75139999,
     "freq": 434825000,
     "mode": "nfm",
-    "status": "On-air",
+    "status": "Off-air",
     "updated": "2018-07-18",
     "comment": ""
   },
@@ -285,8 +285,8 @@
     "lon": 22.29170036,
     "freq": 434850000,
     "mode": "nfm",
-    "status": "On-air",
-    "updated": "2018-07-18",
+    "status": "Off-air",
+    "updated": "2024-12-06",
     "comment": " "
   },
   {
@@ -296,7 +296,7 @@
     "freq": 434850000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-07-18",
+    "updated": "2024-12-06",
     "comment": ""
   },
   {
@@ -306,7 +306,7 @@
     "freq": 434625000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-07-17",
+    "updated": "2024-12-06",
     "comment": "Temporary 50W output power with DTMF #1"
   },
   {
@@ -316,7 +316,7 @@
     "freq": 434875000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-07-18",
+    "updated": "2024-12-06",
     "comment": " "
   },
   {
@@ -336,7 +336,7 @@
     "freq": 434925000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-07-18",
+    "updated": "2024-12-06",
     "comment": ""
   },
   {
@@ -346,7 +346,7 @@
     "freq": 434925000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-07-18",
+    "updated": "2024-12-06",
     "comment": " "
   },
   {
@@ -355,7 +355,7 @@
     "lon": 23.83230019,
     "freq": 434950000,
     "mode": "nfm",
-    "status": "On-air",
+    "status": "Off-air",
     "updated": "2018-07-18",
     "comment": ""
   },
@@ -366,7 +366,7 @@
     "freq": 1297000000,
     "mode": "nfm",
     "status": "Off-air",
-    "updated": "2018-07-18",
+    "updated": "2024-12-06",
     "comment": "QRT"
   },
   {
@@ -375,8 +375,8 @@
     "lon": 27.125,
     "freq": 1297075000,
     "mode": "nfm",
-    "status": "On-air",
-    "updated": "2018-07-18",
+    "status": "Off-air",
+    "updated": "2024-12-06",
     "comment": " "
   },
   {
@@ -436,7 +436,7 @@
     "freq": 145750000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2016-04-01",
+    "updated": "2024-12-06",
     "comment": "Permanently linked to local 70 cm repeater OH3RNE (434.850 -2.0 CTCSS 123.0). See http://oh3ne.ham.fi/wiki/index.php/OH3NE_in_English#OH3RNE_Repeaters_in_Tampere"
   },
   {
@@ -456,7 +456,7 @@
     "freq": 145750000,
     "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-07-16",
+    "updated": "2024-12-05",
     "comment": ""
   },
   {
@@ -464,13 +464,13 @@
     "lat": 60.51079941,
     "lon": 24.74729919,
     "freq": 434700000,
-    "mode": "ysf",
+    "mode": "nfm",
     "status": "On-air",
-    "updated": "2018-07-17",
+    "updated": "2024-12-06",
     "comment": ""
   },
   {
-    "name": "OH2DMR",
+    "name": "OH2DMRH",
     "lat": 60.19689941,
     "lon": 24.9368,
     "freq": 434575000,
@@ -485,38 +485,38 @@
     "lon": 25.74819946,
     "freq": 144650000,
     "mode": "nfm",
-    "status": "Unknown",
+    "status": "On-air",
     "updated": "2018-07-16",
     "comment": "25 watts, 150 m ASL."
   },
   {
-    "name": "OH2DMR",
+    "name": "OH2DMRE",
     "lat": 60.1835,
     "lon": 24.751,
-    "freq": 434512500,
+    "freq": 438087500,
     "mode": "dmr",
     "status": "On-air",
-    "updated": "2021-07-12",
+    "updated": "2024-12-06",
     "comment": ""
   },
   {
     "name": "OH2RUF",
     "lat": 60.33150101,
     "lon": 25.05929947,
-    "freq": 434525000,
+    "freq": 438075000,
     "mode": "dmr",
-    "status": "Unknown",
-    "updated": "2019-12-11",
+    "status": "On-air",
+    "updated": "2024-12-06",
     "comment": ""
   },
   {
     "name": "OH2DMR",
     "lat": 60.18330002,
     "lon": 24.75139999,
-    "freq": 434537500,
+    "freq": 438150000,
     "mode": "nfm",
-    "status": "Unknown",
-    "updated": "2018-07-16",
+    "status": "On-air",
+    "updated": "2024-12-06",
     "comment": ""
   },
   {
@@ -535,7 +535,7 @@
     "lon": 26.79850006,
     "freq": 434562500,
     "mode": "dmr",
-    "status": "Unknown",
+    "status": "Off-air",
     "updated": "2018-07-17",
     "comment": ""
   },
@@ -545,7 +545,7 @@
     "lon": 25.32299995,
     "freq": 434562500,
     "mode": "dmr",
-    "status": "Unknown",
+    "status": "On-air",
     "updated": "2019-12-11",
     "comment": ""
   },
@@ -555,17 +555,7 @@
     "lon": 25.74819946,
     "freq": 434587500,
     "mode": "dmr",
-    "status": "Unknown",
-    "updated": "2019-12-11",
-    "comment": ""
-  },
-  {
-    "name": "",
-    "lat": 60.93899918,
-    "lon": 26.59149933,
-    "freq": 434587500,
-    "mode": "dmr",
-    "status": "Unknown",
+    "status": "On-air",
     "updated": "2019-12-11",
     "comment": ""
   },
@@ -575,7 +565,7 @@
     "lon": 25.74819946,
     "freq": 434587500,
     "mode": "dmr",
-    "status": "Unknown",
+    "status": "On-air",
     "updated": "2019-12-11",
     "comment": ""
   },
@@ -585,7 +575,7 @@
     "lon": 25.74819946,
     "freq": 434725000,
     "mode": "nfm",
-    "status": "On-air",
+    "status": "Off-air",
     "updated": "2018-07-17",
     "comment": ""
   },
@@ -605,22 +595,12 @@
     "lon": 25.74819946,
     "freq": 29680000,
     "mode": "nfm",
-    "status": "On-air",
-    "updated": "2018-07-18",
+    "status": "Off-air",
+    "updated": "2024-12-06",
     "comment": ""
   },
   {
-    "name": "",
-    "lat": 60.25650024,
-    "lon": 24.82670021,
-    "freq": 434525000,
-    "mode": "nfm",
-    "status": "On-air",
-    "updated": "2019-12-18",
-    "comment": ""
-  },
-  {
-    "name": "OH2DMR",
+    "name": "OH2DMRN",
     "lat": 60.5108333,
     "lon": 24.7473333,
     "freq": 434562500,
@@ -663,10 +643,10 @@
     "name": "OH2DMRP",
     "lat": 60.4655,
     "lon": 23.8966667,
-    "freq": 434637500,
+    "freq": 434537500,
     "mode": "dmr",
     "status": "On-air",
-    "updated": "2021-07-19",
+    "updated": "2024-12-06",
     "comment": ""
   }
 ]
