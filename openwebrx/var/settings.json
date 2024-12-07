@@ -131,7 +131,7 @@
     "aprs_igate_comment": "Tripla north rx igate",
     "pskreporter_enabled": true,
     "pskreporter_callsign": "OH2EWL",
-    "pskreporter_antenna_information": "Vertical",
+    "pskreporter_antenna_information": "Vertical rx-1.async.fi",
     "wsprnet_enabled": true,
     "wsprnet_callsign": "OH2EWL",
     "mqtt_enabled": false,
