@@ -7,9 +7,9 @@ services:
     device_cgroup_rules:
       - 'c 189:* rwm'
     environment:
-      FREQUENCY: 433280000
+      FREQUENCY: 432800000
       GAIN: 0
-      SAMPLERATE: 2560000
+      SAMPLERATE: 1600000
     restart: always
 
   openwebrx:

@@ -7,8 +7,8 @@
             "profiles": {
                 "cd232bbd-2546-4fcf-b738-c1b45963f532": {
                     "name": "70cm",
-                    "center_freq": 433280000,
-                    "samp_rate": 2560000,
+                    "center_freq": 432800000,
+                    "samp_rate": 1600000,
                     "start_freq": 432200000,
                     "start_mod": "usb",
                     "tuning_step": 100,
@@ -61,7 +61,7 @@
     "fft_compression": "adpcm",
     "tuning_precision": 2,
     "eibi_bookmarks_range": 0,
-    "repeater_range": 0,
+    "repeater_range": 200,
     "map_type": "leaflet",
     "google_maps_api_key": "",
     "openweathermap_api_key": "",
