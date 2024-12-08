@@ -61,7 +61,7 @@
     "fft_compression": "adpcm",
     "tuning_precision": 2,
     "eibi_bookmarks_range": 0,
-    "repeater_range": 0,
+    "repeater_range": 200,
     "map_type": "leaflet",
     "google_maps_api_key": "",
     "openweathermap_api_key": "",
