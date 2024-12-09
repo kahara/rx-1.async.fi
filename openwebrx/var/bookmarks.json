@@ -62,5 +62,13 @@
         "underlying": "",
         "description": "",
         "scannable": true
+    },
+    {
+        "name": "OH9VHF Rovaniemi",
+        "frequency": 144417000,
+        "modulation": "cw",
+        "underlying": "",
+        "description": "",
+        "scannable": true
     }
 ]
