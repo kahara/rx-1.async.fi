@@ -94,7 +94,7 @@
     "fax_am": true,
     "decoding_queue_workers": 2,
     "decoding_queue_length": 30,
-    "wsjt_decoding_depth": 2,
+    "wsjt_decoding_depth": 3,
     "wsjt_decoding_depths": {
         "jt65": 1
     },
