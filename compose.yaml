@@ -1,0 +1,26 @@
+services:
+  galmon:
+    image: berthubert/galmon:latest
+    devices:
+      - '/dev/ttyACM0:/dev/ttyACM0'
+    command:
+      - 'ubxtool'
+      - '--wait'
+      - '--port'
+      - '/dev/ttyACM0'
+      - '--baud'
+      - '9600'
+      - '--newbaud'
+      - '115200'
+      - '--gps'
+      - '--galileo'
+      - '--glonass'
+      - '--destination'
+      - 'submit.galmon.eu'
+      - '--station'
+      - '188'
+      - '--owner'
+      - 'oh2ewl'
+      - '--remark'
+      - 'west-facing'
+    restart: always
