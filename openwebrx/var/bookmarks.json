@@ -78,5 +78,13 @@
         "underlying": "",
         "description": "",
         "scannable": true
+    },
+    {
+        "name": "ES0UHF",
+        "frequency": 432475000,
+        "modulation": "cw",
+        "underlying": "",
+        "description": "",
+        "scannable": true
     }
 ]
