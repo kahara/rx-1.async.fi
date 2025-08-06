@@ -38,5 +38,13 @@
         "underlying": "",
         "description": "",
         "scannable": true
+    },
+    {
+        "name": "ES0SIX",
+        "frequency": 50437000,
+        "modulation": "cw",
+        "underlying": "",
+        "description": "",
+        "scannable": true
     }
 ]
